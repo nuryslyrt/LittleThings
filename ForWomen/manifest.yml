@@ -1,0 +1,10 @@
+---
+applications:
+- name: ForWomen
+  memory: 512M
+  host: ForWomen
+  domain: mybluemix.net
+  env: {
+    }
+  services: {
+    }
